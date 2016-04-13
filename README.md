@@ -45,7 +45,7 @@ Deploy the production version of the app to a remote server:
 
 The MIT License (MIT)
 
-Copyright (c) 2015 sjc-digital
+Copyright (c) 2015-2016 sjc-digital
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
